@@ -1,13 +1,16 @@
-# Oh, hey! 👋
+## Oh, hey! 👋
 
 I'm [**Trevor N. Suarez**](https://trevorsuarez.com/), an auto enthusiast, music junkie, snowboarder, hobbyist photographer, and digital maker (software engineer).
 
 Thanks for stopping by!
 
 
-## Preferences
+### Preferences
 
-I enjoy working with a lot of different technologies, but my current preferred tech is:
+<details>
+<summary>
+I enjoy working with a lot of different technologies, but my current preferred tech is...
+</summary>
 
  - **Programming Language**: Go _("golang", for the SEO)_
  - **Operating System**:
@@ -21,19 +24,24 @@ I enjoy working with a lot of different technologies, but my current preferred t
          - It's tiny and only uses the standard library.
          - Yeaaaaa, I made it... 😅
      - **Frontend**: [Svelte](https://svelte.dev/)
+</details>
 
 
-## Curious About
+### Curious About
 
-These are some things that I've found/discovered, have yet to work with, but am curious about:
+<details>
+<summary>
+These are some things that I've found/discovered, have yet to work with, but am curious about...
+</summary>
 
  - [bubbletea](https://github.com/charmbracelet/bubbletea)
  - [wails](https://github.com/wailsapp/wails)
  - [ebiten](https://github.com/hajimehoshi/ebiten)
  - [SvelteKit](https://kit.svelte.dev/)
+</details>
 
 
-## Newest Project
+### Newest Project
 
 #### Introducing ["lieut"](https://github.com/Rican7/lieut)
 
